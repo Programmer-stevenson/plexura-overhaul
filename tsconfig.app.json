@@ -16,5 +16,5 @@
     "noEmit": true,
     "jsx": "react-jsx"
   },
-  "include": ["src", "public/assets/HeroSection.tsx"]
+  "include": ["src", "src/components/HeroSection.tsx"]
 }

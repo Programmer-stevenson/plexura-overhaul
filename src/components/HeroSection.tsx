@@ -1,8 +1,8 @@
 import { useCallback, useEffect, useState } from 'react';
-import Header from '../../src/components/Header';
-import MobileMenu from '../../src/components/MobileMenu';
-import TechnologyPartners from '../../src/components/TechnologyPartners';
-import HeroCanvas from '../../src/components/herocanvas';
+import Header from './Header';
+import MobileMenu from './MobileMenu';
+import TechnologyPartners from './TechnologyPartners';
+import HeroCanvas from './heroCanvas';
 
 export default function HeroSection() {
   const [menuOpen, setMenuOpen] = useState(false);

@@ -1,4 +1,4 @@
-import HeroSection from '../public/assets/HeroSection';
+import HeroSection from './components/HeroSection';
 import WebDesignSection from './sections/WebDesignSection';
 import TeamSection from './sections/TeamSection';
 
